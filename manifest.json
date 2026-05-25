@@ -1,0 +1,10 @@
+{
+  "name": "My Workout Tracker",
+  "short_name": "Workout Tracker",
+  "description": "Gym workout tracker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0d1a",
+  "theme_color": "#0d0d1a",
+  "icons": []
+}
